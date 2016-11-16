@@ -16,6 +16,9 @@ int main (void) {
 	return 0;
 	add 1
 	step 4
+	printf(" add");
+	hi
+	banga banga
 	step 5
 	add 2
 	step 6
