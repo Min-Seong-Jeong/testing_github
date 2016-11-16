@@ -10,6 +10,9 @@ int main (void) {
 	step 3
 	printf("this line is add test in internet\n");
 	step 4
+	printf(" add");
+	hi
+	banga banga
 	step 5
 	add 2
 	step 6

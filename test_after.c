@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main (void) {
 	int a;
-
+what is that
 	return 0;
+	aha yeah
 }
