@@ -5,6 +5,8 @@ int main (void) {
 
 	printf("this line is add test in internet\n");
 	printf("this line is add test in internet\n");
+	printf("this line is add test in internet\n");
+	printf("this line is add test in internet\n");
 	
 	return 0;
 }
